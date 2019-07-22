@@ -6,4 +6,7 @@ class ApplicationController < ActionController::Base
 
   def method_two
   end
+
+  def method_three
+  end
 end

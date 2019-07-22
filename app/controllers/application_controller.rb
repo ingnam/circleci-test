@@ -9,4 +9,7 @@ class ApplicationController < ActionController::Base
 
   def method_three
   end
+
+  def method_four
+  end
 end

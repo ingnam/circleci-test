@@ -3,4 +3,7 @@ class ApplicationController < ActionController::Base
 
   def method_one
   end
+
+  def method_two
+  end
 end
